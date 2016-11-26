@@ -1,4 +1,3 @@
-
 /**
  * scrollVis - encapsulates
  * all the code for the visualization
